@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ArduinoLabWebSite", "ArduinoLabWebSite\", "{C6DF4546-C7BE-476D-924C-10EE3A33DE09}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51138"
+		Debug.AspNetCompiler.PhysicalPath = "ArduinoLabWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51138\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51138"
+		Release.AspNetCompiler.PhysicalPath = "ArduinoLabWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51138\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51138"
+		SlnRelativePath = "ArduinoLabWebSite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DF4546-C7BE-476D-924C-10EE3A33DE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DF4546-C7BE-476D-924C-10EE3A33DE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C0E2A9A-6197-4D5E-A057-6F5688E468AB}
+	EndGlobalSection
+EndGlobal
