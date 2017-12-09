@@ -23,7 +23,49 @@ textarea {
     .jumbotron {
         margin-top: 20px;
     }
+
     .body-content {
         padding: 0;
     }
 }
+
+/*Change navbar background color*/
+.navbar-inverse {
+    background-color: #339966;
+    background-image: none;
+    border-color: #339966
+}
+/*Change navbar brand name font color*/
+.navbar-brand {
+    color: #FFFFFF !important
+}
+    /*Change navbar brand name font color*/
+    .navbar-brand:visited {
+        color: #FFFFFF !important
+    }
+/*Change navbar button font color - white*/
+.nav.navbar-nav li a {
+    color: #fff !important;
+}
+    /*Change navbar button font color - gray*/
+    .nav.navbar-nav li a:hover {
+        color: #d9d9d9 !important;
+    }
+
+/*Resize navbar
+.navbar-nav > li > a, .navbar-brand {
+    padding-top: 5px !important;
+    padding-bottom: 0 !important;
+    height: 30px;
+}
+
+.navbar {
+    min-height: 60px !important;
+}
+.navbar {
+    position: relative;
+    z-index: 1000;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}*/
